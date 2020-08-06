@@ -1,0 +1,5 @@
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Attach library database\Attach library database\bin\Debug\Attach library database.exe.config
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Attach library database\Attach library database\bin\Debug\Attach library database.exe
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Attach library database\Attach library database\bin\Debug\Attach library database.pdb
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Attach library database\Attach library database\obj\x86\Debug\Attach library database.exe
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Attach library database\Attach library database\obj\x86\Debug\Attach library database.pdb

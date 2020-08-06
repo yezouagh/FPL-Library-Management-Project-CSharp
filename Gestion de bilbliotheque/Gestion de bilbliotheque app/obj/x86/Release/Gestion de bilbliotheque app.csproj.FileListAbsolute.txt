@@ -1,0 +1,35 @@
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Release\WindowsApplication.exe.config
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\WindowsApplication.exe
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\WindowsApplication.pdb
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Release\WindowsApplication.exe.config
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Release\WindowsApplication.exe
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Release\WindowsApplication.pdb
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Release\itextsharp.dll
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Release\itextsharp.pdfa.dll
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Release\itextsharp.xtra.dll
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Release\itextsharp.xml
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.AjouterDocument.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.AjouterDocumentForm.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.AjouterEmp.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.AjouterEmrunteur.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.Alimenter_la_base_de_deonnees.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.Bienvenu.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.Asanctionnee.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.SetSqlConnection.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.Statistiques.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.TousLesEmprunts.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.Historique.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.LesDocuments.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.LesEmprunteurs.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.ModifierDocument.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.ModifierEmp.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.Filiere.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.inputVariabl.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.Preter.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion_de_bilbliotheque_app.Properties.Resources.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\Gestion de bilbliotheque app.csproj.GenerateResource.Cache
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\WindowsApplication.exe
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\WindowsApplication.pdb
+E:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Release\WindowsApplication.exe.config
+E:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\WindowsApplication.exe
+E:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Release\WindowsApplication.pdb

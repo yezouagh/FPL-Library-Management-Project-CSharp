@@ -1,0 +1,9 @@
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Catalogue\Catalogue\bin\Release\Catalogue.exe.config
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Catalogue\Catalogue\bin\Release\Catalogue.exe
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Catalogue\Catalogue\bin\Release\Catalogue.pdb
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Catalogue\Catalogue\obj\x86\Release\Catalogue.LesDocuments.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Catalogue\Catalogue\obj\x86\Release\Catalogue.Properties.Resources.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Catalogue\Catalogue\obj\x86\Release\Catalogue.SetSqlConnection.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Catalogue\Catalogue\obj\x86\Release\Catalogue.csproj.GenerateResource.Cache
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Catalogue\Catalogue\obj\x86\Release\Catalogue.exe
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Catalogue\Catalogue\obj\x86\Release\Catalogue.pdb

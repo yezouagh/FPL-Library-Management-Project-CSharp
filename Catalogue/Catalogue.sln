@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalogue", "Catalogue\Catalogue.csproj", "{0A598AF8-E6B1-4E49-82AD-D499A5FE44E7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Catalogue Setup", "Catalogue Setup\Catalogue Setup.vdproj", "{D2192FE2-2B25-42CC-9969-DC30BD040034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A598AF8-E6B1-4E49-82AD-D499A5FE44E7}.Debug|x86.ActiveCfg = Release|x86
+		{0A598AF8-E6B1-4E49-82AD-D499A5FE44E7}.Debug|x86.Build.0 = Release|x86
+		{0A598AF8-E6B1-4E49-82AD-D499A5FE44E7}.Release|x86.ActiveCfg = Release|x86
+		{0A598AF8-E6B1-4E49-82AD-D499A5FE44E7}.Release|x86.Build.0 = Release|x86
+		{D2192FE2-2B25-42CC-9969-DC30BD040034}.Debug|x86.ActiveCfg = Release
+		{D2192FE2-2B25-42CC-9969-DC30BD040034}.Debug|x86.Build.0 = Release
+		{D2192FE2-2B25-42CC-9969-DC30BD040034}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

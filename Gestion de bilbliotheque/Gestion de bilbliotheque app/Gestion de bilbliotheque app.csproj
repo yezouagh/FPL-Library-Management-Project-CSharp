@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{AB6B83EE-B408-4161-BC34-EB42C5BD76C7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>WindowsApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>CODE_ANALYSIS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>
+    </DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+    <CodeAnalysisIgnoreGeneratedCode>false</CodeAnalysisIgnoreGeneratedCode>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>Gestion_de_bilbliotheque_app</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Gestion_de_bilbliotheque_app.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>.\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>.\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>.\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AjouterDocument.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AjouterDocument.Designer.cs">
+      <DependentUpon>AjouterDocument.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjouterDocumentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjouterDocumentForm.Designer.cs">
+      <DependentUpon>AjouterDocumentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjouterEmp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AjouterEmp.Designer.cs">
+      <DependentUpon>AjouterEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjouterEmrunteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjouterEmrunteur.Designer.cs">
+      <DependentUpon>AjouterEmrunteur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alimenter la base de deonnees.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Alimenter la base de deonnees.Designer.cs">
+      <DependentUpon>Alimenter la base de deonnees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BibliothèqueDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BibliothèqueDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Bienvenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bienvenu.Designer.cs">
+      <DependentUpon>Bienvenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asanctionnee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asanctionnee.Designer.cs">
+      <DependentUpon>Asanctionnee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SetSqlConnection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetSqlConnection.Designer.cs">
+      <DependentUpon>SetSqlConnection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Statistiques.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Statistiques.Designer.cs">
+      <DependentUpon>Statistiques.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TousLesEmprunts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TousLesEmprunts.Designer.cs">
+      <DependentUpon>TousLesEmprunts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Historique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Historique.Designer.cs">
+      <DependentUpon>Historique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LesDocuments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LesDocuments.Designer.cs">
+      <DependentUpon>LesDocuments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LesEmprunteurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LesEmprunteurs.Designer.cs">
+      <DependentUpon>LesEmprunteurs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifierDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifierDocument.Designer.cs">
+      <DependentUpon>ModifierDocument.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifierEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifierEmp.Designer.cs">
+      <DependentUpon>ModifierEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filiere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filiere.Designer.cs">
+      <DependentUpon>Filiere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inputVariabl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inputVariabl.Designer.cs">
+      <DependentUpon>inputVariabl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Preter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Preter.Designer.cs">
+      <DependentUpon>Preter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AjouterDocument.resx">
+      <DependentUpon>AjouterDocument.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjouterDocumentForm.resx">
+      <DependentUpon>AjouterDocumentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjouterEmp.resx">
+      <DependentUpon>AjouterEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjouterEmrunteur.resx">
+      <DependentUpon>AjouterEmrunteur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alimenter la base de deonnees.resx">
+      <DependentUpon>Alimenter la base de deonnees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bienvenu.resx">
+      <DependentUpon>Bienvenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asanctionnee.resx">
+      <DependentUpon>Asanctionnee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetSqlConnection.resx">
+      <DependentUpon>SetSqlConnection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistiques.resx">
+      <DependentUpon>Statistiques.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TousLesEmprunts.resx">
+      <DependentUpon>TousLesEmprunts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Historique.resx">
+      <DependentUpon>Historique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LesDocuments.resx">
+      <DependentUpon>LesDocuments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LesEmprunteurs.resx">
+      <DependentUpon>LesEmprunteurs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifierDocument.resx">
+      <DependentUpon>ModifierDocument.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifierEmp.resx">
+      <DependentUpon>ModifierEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filiere.resx">
+      <DependentUpon>Filiere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inputVariabl.resx">
+      <DependentUpon>inputVariabl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Preter.resx">
+      <DependentUpon>Preter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="BibliothèqueDataSet.xsc">
+      <DependentUpon>BibliothèqueDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BibliothèqueDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BibliothèqueDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BibliothèqueDataSet.xss">
+      <DependentUpon>BibliothèqueDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+    <Content Include="Resources\logo.png" />
+    <Content Include="Resources\max.png" />
+    <Content Include="Resources\minimize.png" />
+    <None Include="Resources\royum.png" />
+    <None Include="Resources\royum.bmp" />
+    <None Include="Resources\welcome.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,65 @@
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Debug\WindowsApplication.exe.config
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Debug\WindowsApplication.exe
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Debug\WindowsApplication.pdb
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterAuteur.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterDocument.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterDocumentForm.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterDomainOuSousDomaine.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterEmp.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterEmrunteur.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterTypeDocument.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Alimenter_la_base_de_deonnees.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Bienvenu.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Filiere.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Preter.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Properties.Resources.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion de bilbliotheque app.csproj.GenerateResource.Cache
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\WindowsApplication.exe
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\WindowsApplication.pdb
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Debug\WindowsApplication.exe.config
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Debug\WindowsApplication.exe
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Debug\WindowsApplication.pdb
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterAuteur.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterDocument.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterDocumentForm.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterDomainOuSousDomaine.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterEmp.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterEmrunteur.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterTypeDocument.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Alimenter_la_base_de_deonnees.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Bienvenu.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Filiere.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Preter.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Properties.Resources.resources
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion de bilbliotheque app.csproj.GenerateResource.Cache
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\WindowsApplication.exe
+D:\JUNK\Projet de Gestion de bilbliotheque de la FPL - Copy\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\WindowsApplication.pdb
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Debug\WindowsApplication.exe.config
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Debug\WindowsApplication.exe
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Debug\WindowsApplication.pdb
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Debug\itextsharp.dll
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Debug\itextsharp.pdfa.dll
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Debug\itextsharp.xtra.dll
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\bin\Debug\itextsharp.xml
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterDocument.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterDocumentForm.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterEmp.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.AjouterEmrunteur.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Alimenter_la_base_de_deonnees.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Bienvenu.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Asanctionnee.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.SetSqlConnection.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Statistiques.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.TousLesEmprunts.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Historique.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.LesDocuments.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.LesEmprunteurs.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.ModifierDocument.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.ModifierEmp.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Filiere.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.inputVariabl.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Preter.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion_de_bilbliotheque_app.Properties.Resources.resources
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\Gestion de bilbliotheque app.csproj.GenerateResource.Cache
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\WindowsApplication.exe
+D:\TDI 2em annee\Projet de fin de formation\Projet de Gestion de bilbliotheque de la FPL\Gestion de bilbliotheque\Gestion de bilbliotheque app\obj\x86\Debug\WindowsApplication.pdb

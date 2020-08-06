@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestion de bilbliotheque app", "Gestion de bilbliotheque app.csproj", "{AB6B83EE-B408-4161-BC34-EB42C5BD76C7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{7D1BFAD5-C249-4514-AC10-A2219AE7C530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6B83EE-B408-4161-BC34-EB42C5BD76C7}.Debug|x86.ActiveCfg = Release|x86
+		{AB6B83EE-B408-4161-BC34-EB42C5BD76C7}.Debug|x86.Build.0 = Release|x86
+		{AB6B83EE-B408-4161-BC34-EB42C5BD76C7}.Release|x86.ActiveCfg = Release|x86
+		{AB6B83EE-B408-4161-BC34-EB42C5BD76C7}.Release|x86.Build.0 = Release|x86
+		{7D1BFAD5-C249-4514-AC10-A2219AE7C530}.Debug|x86.ActiveCfg = Debug
+		{7D1BFAD5-C249-4514-AC10-A2219AE7C530}.Debug|x86.Build.0 = Debug
+		{7D1BFAD5-C249-4514-AC10-A2219AE7C530}.Release|x86.ActiveCfg = Release
+		{7D1BFAD5-C249-4514-AC10-A2219AE7C530}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
